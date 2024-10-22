@@ -1,0 +1,14 @@
+# Query: package
+# ContextLines: 1
+
+1 个结果 - 1 个文件
+
+package-lock.json:
+  5    "requires": true,
+  
+  6:   "packages": {
+  7      "": {
+"scripts": {
+  "build": "next build",
+  "export": "next export"
+}
